@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+.App-Component{
+  margin: 150px auto 0 auto;
+  width: 1620px
+}
+
+.cellContainer {
+  width: 25%;
+  float: left;
+}
+
+.searchBar {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  align-items: center;
+}
+
+.cardImg {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.cardProfileImgBack {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.cardImgContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 15px;
+}
