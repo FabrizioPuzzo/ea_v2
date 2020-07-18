@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 import Container from "react-bootstrap/Container";
-import Chart from 'react-apexcharts';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import UserDataList from '../data/user_data_list.json'
